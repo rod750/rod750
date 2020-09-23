@@ -10,7 +10,7 @@ My name is Rodrigo, I'm a senior fullstack developer. I'm currently developing w
 - GraphQL
 - Vercel
 
-### What I know? Here's the full list:
+### What do I know? Here's the full list:
 
 #### Frontend 🖥
 
